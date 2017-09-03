@@ -4,10 +4,7 @@ var links = {
       "title": "Search", 
       "links" : [ 
         {"title":"Google", "url" : "http://www.google.com"},
-        {"title":"Bing", "url" : "http://www.bing.com"},
-        {"title":"Yahoo", "url" : "http://www.yahoo.com"},
-        {"title":"Ask", "url": "http://www.ask.com"},
-        {"title":"Duckduckgo", "url" : "http://www.duckduckgo.com"}
+        {"title":"And only Google", "url" : "http://www.google.com"}
       ]},
       { 
       "title": "Knowledge", 
@@ -41,16 +38,13 @@ var links = {
       "links" : [
         {"title":"Facebook", "url" : "http://www.facebook.com"},
         {"title":"Twitter", "url" : "http://www.twitter.com"},
-        {"title":"LinkedIn", "url" : "http://www.linkedIn.com"},
-        {"title":"Pinterest", "url" : "http://www.pinterest.com"},
-        {"title":"Google+", "url":"http://plus.google.com"}
+        {"title":"LinkedIn", "url" : "http://www.linkedIn.com"}
       ]},
        {
       "title": "Video", 
       "links" : [
         {"title":"YouTube", "url" : "http://www.youtube.com"},
         {"title":"NetFlix", "url" : "http://www.netflix.com"},
-        {"title":"Vimeo", "url" : "http://www.vimeo.com"},
         {"title":"Twitch", "url" : "http://www.twitch.tv"},
         {"title":"Daily Motion", "url":"http://www.dailymotion.com"}
       ]}],
@@ -247,23 +241,6 @@ var links = {
         {"title":"Tumblr", "url" : "http://www.tumblr.com/search/travel"},
         {"title":"Fathoma", "url" : "http://fathomaway.com"}
       ]},
-      {
-      "title": "Info", 
-      "links" : [
-        {"title":"Wikivoyage", "url" : "http://www.wikivoyage.org/"},
-        {"title":"Lonely Planet", "url":"http://www.lonelyplanet.com/"},
-        {"title":"Rough Guides", "url":"http://www.roughguides.com"},
-        {"title":"TravelScope", "url":"http://www.markuslerner.com/travelscope/"},
-        {"title":"On Reddit", "url":"http://www.reddit.com/r/travel"}
-      ]},
-       {
-      "title": "Booking", 
-      "links" : [
-        {"title":"Booking.com", "url" : "http://www.booking.com/"},
-        {"title":"HostelWorld", "url" : "http://www.hostelworld.com"},
-        {"title":"HostelBookers", "url" : "http://www.hostelbookers.com"},
-        {"title":"LastMinute", "url" : "http://www.lastminute.com"},
-      ]},
        {
       "title": "Reviews", 
       "links" : [
@@ -315,7 +292,6 @@ var links = {
         {"title":"IMDb", "url" : "http://www.imdb.com/"},
         {"title":"Metacritic", "url" : "http://www.metacritic.com/movie/"},
         {"title":"Screenrant", "url" : "http://screenrant.com/"},
-        {"title":"Screendaily", "url" : "http://www.screendaily.com/reviews/"},
         {"title":"NYTimes", "url":"http://www.nytimes.com/pages/movies/index.html"}
       ]},
        {
@@ -323,8 +299,7 @@ var links = {
       "links" : [
         {"title":"Amazon Video", "url" : "http://www.amazon.com/Instant-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011/"},
         {"title":"Netflix", "url" : "https://www.netflix.com/"},
-        {"title":"Google Play", "url": "https://play.google.com/store/movies"},
-        {"title":"Hulu","url":"http://www.hulu.com/"}
+        {"title":"Google Play", "url": "https://play.google.com/store/movies"}
       ]}],
     "Fun": [
        {
@@ -344,15 +319,6 @@ var links = {
         {"title":"Oatmeal", "url" : "http://www.theoatmeal.com/comics"}, 
         {"title":"PhDComics", "url" : "http://www.phdcomics.com/comics.php"},
         {"title":"Poorly Drawn Lines","url":"http://poorlydrawnlines.com/comic/"}
-      ]},
-      {
-      "title": "Reddit", 
-      "links" : [
-        {"title":"/r/funny", "url" : "http://www.reddit.com/r/funny"},
-        {"title":"/r/reactiongifs", "url" : "http://www.reddit.com/r/reactiongifs/"},
-        {"title":"/r/humor", "url" : "http://www.reddit.com/r/humor"},
-        {"title":"/r/jokes", "url" : "http://www.reddit.com/r/jokes"},
-        {"title":"/r/lol", "url" : "http://www.reddit.com/r/lol"}
       ]},
       {
       "title": "Meme", 
@@ -375,11 +341,6 @@ var links = {
        {
       "title": "Web Games", 
       "links" : [
-        {"title":"Newgrounds", "url" : "http://www.newgrounds.com"},
-        {"title":"Kongregate", "url" : "http://www.kongregate.com"},
-        {"title":"Adult Swim", "url" : "http://games.adultswim.com"},
-        {"title":"Armor Games", "url" : "http://www.armorgames.com"},
-        {"title":"Addicting Games", "url":"http://www.addictinggames.com"}
       ]}]
 }
 
